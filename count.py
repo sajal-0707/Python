@@ -1,2 +1,2 @@
-text ="banana banana banana"
+text =" banana banana banana "
 print(text.count("an"))
